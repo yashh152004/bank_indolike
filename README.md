@@ -25,10 +25,7 @@ A simple **Java CLI application** to manage a bank account — designed for begi
 
 ## 🚀 How to Run
 
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/bank-system-java.git
-   cd bank-system-java
+
 Compile the program:
 
 bash
